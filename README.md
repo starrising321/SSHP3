@@ -1,6 +1,6 @@
 # SSHPLUS
 
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/starrising321/SSHP3/master/Plus && chmod 777 Plus && ./Plus
+apt-get update -y; apt-get upgrade -y; apt-get install curl -y; apt-get install sudo -y; wget https://raw.githubusercontent.com/starrising321/SSHP3/master/Plus && chmod 777 Plus && ./Plus
 
 
 # Acessa Root
