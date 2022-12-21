@@ -6,14 +6,19 @@
 ```
 apt-get update -y; apt-get upgrade -y; apt-get install curl -y; apt-get install sudo -y; wget https://raw.githubusercontent.com/starrising321/SSHP3/master/Plus && chmod 777 Plus && ./Plus
 
+```
 
 # Acessa Root 🍷🗿
 ```
 wget https://raw.githubusercontent.com/starrising321/SSHP3/master/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
 
+```
+
 # SSL Normal 🍷🗿
 ```
 apt update; apt upgrade -y; apt install wget -y; wget --no-check-certificate https://raw.githubusercontent.com/starrising321/SSL/main/ssl.sh; chmod +x ssl.sh; ./ssl.sh
+
+```
 
 # Ports With WS Setting 🍷🗿
 
