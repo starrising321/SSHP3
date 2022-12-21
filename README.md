@@ -4,7 +4,7 @@
 <html>
 <body>
    <center>
-      <h2>Image as a Link</h2>
+      <h2>Telegram 👇🗿</h2>
       <a href="https://t.me/Star_Jani"><img src="https://icon-library.com/images/telegram-icon-png/telegram-icon-png-7.jpg" alt="Tutorialspoint" style="width:50px;height:60px;"></a>
    </center>
 </body>
